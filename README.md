@@ -15,7 +15,7 @@ Existing solutions like Pinecone or Weaviate were server-based. SQLite extension
 
 SynthetikDB retains all the power of LiteDB, while introducing intelligent features for vector-based retrieval, memory modeling, and embedded AI agents.
 
-This project preserves and celebrates the excellence of the original [LiteDB](https://github.com/mbdavid/LiteDB) by Mauricio David. All changes comply with the MIT License and retain original attribution.
+>This project preserves and celebrates the excellence of the original [LiteDB](https://github.com/mbdavid/LiteDB) by Mauricio David. All changes comply with the MIT License and retain original attribution.
 
 ---
 
