@@ -160,24 +160,9 @@ This software is licensed under the [MIT License](https://opensource.org/license
 
 ---
 
-## 🛠️ Future Roadmap (Optional)
+🔍 Getting Help
 
-The following features are **experimental** or under development in downstream use:
-
-- 🔗 Semantic edge-based graph memory
-- 🧠 Emotion + context-aware memory prioritization
-- 🪢 Multi-store scoped memory architecture (Working, LTM, Local)
-- 🌀 Integration into [SynthetikDelusion](https://github.com/hurley451/synthetikdelusion), an open cognitive agent platform
-
----
-
-## 🧪 Getting Started
-
-```bash
-dotnet add package SynthetikDB
-```
-
-Or clone this repo and reference the project locally.
+Open an issue for feature requests or improvements. 
 
 ---
 
