@@ -61,9 +61,16 @@ SynthetikDB retains all the power of LiteDB, while introducing intelligent featu
 
 ---
 
-## 💡 Examples
+## Installation & Examples
 
-### Quick Example
+```bash
+dotnet add package SynthetikDB
+```
+
+Or clone the repo and reference the project directly.
+
+
+### Quick Examples
 
 ```csharp
 using var db = new SynthetikDatabase("mem.db");
