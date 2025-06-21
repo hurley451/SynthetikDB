@@ -63,6 +63,7 @@ SynthetikDB retains all the power of LiteDB, while introducing intelligent featu
 
 ## Installation & Examples
 
+To install, simply add the nuget package:
 ```bash
 dotnet add package SynthetikDB
 ```
