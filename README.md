@@ -9,9 +9,13 @@
 
 ## 🧬 Origins
 
-SynthetikDB is a respectful and extended fork of the incredible [LiteDB](https://github.com/mbdavid/LiteDB) by Maurício David, which provides a lightweight, serverless document database with ACID compliance and single-file storage.
+SynthetikDB began as an extension to [LiteDB](https://github.com/mbdavid/LiteDB), an embedded NoSQL document store for .NET. I needed a semantic memory layer for my AI framework ([SynthetikDelusion](https://github.com/hurley451/synthetikdelusion))—something that could search over vector embeddings, locally, at speed.
 
-This project preserves and celebrates the excellence of LiteDB while introducing specialized features needed for vector search and AI-oriented workloads. All changes comply with the MIT License and retain original attribution.
+Existing solutions like Pinecone or Weaviate were server-based. SQLite extensions were promising, but didn’t fit well with C#'s type system or LINQ model. So I built what I needed—vector intelligence for a document store, fully in-process.
+
+SynthetikDB retains all the power of LiteDB, while introducing intelligent features for vector-based retrieval, memory modeling, and embedded AI agents.
+
+This project preserves and celebrates the excellence of the original [LiteDB](https://github.com/mbdavid/LiteDB) by Mauricio David. All changes comply with the MIT License and retain original attribution.
 
 ---
 
